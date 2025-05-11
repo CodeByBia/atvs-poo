@@ -1,0 +1,3 @@
+interface Preparo {
+    String preparar();
+}

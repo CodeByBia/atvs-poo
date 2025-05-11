@@ -1,0 +1,3 @@
+interface Papel {
+    String executarPapel();
+}
